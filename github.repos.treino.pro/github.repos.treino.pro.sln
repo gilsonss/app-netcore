@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Presentation", "01-Presentation", "{DC4DF57E-D973-41E6-80D5-131B51055EC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "github.repos.treino.pro.ui", "github.repos.treino.pro.ui\github.repos.treino.pro.ui.csproj", "{E71E5747-EABD-40D3-B297-ACA4A83230D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E71E5747-EABD-40D3-B297-ACA4A83230D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71E5747-EABD-40D3-B297-ACA4A83230D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71E5747-EABD-40D3-B297-ACA4A83230D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71E5747-EABD-40D3-B297-ACA4A83230D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E71E5747-EABD-40D3-B297-ACA4A83230D4} = {DC4DF57E-D973-41E6-80D5-131B51055EC7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A2A5ECE-7160-4C53-AE4E-5FBD6AE31EEF}
+	EndGlobalSection
+EndGlobal
