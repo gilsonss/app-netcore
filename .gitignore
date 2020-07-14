@@ -1,5 +1,5 @@
 *.lock
 *.ide
-*.suo
+.suo
 *.pdb
 *.g.cs
