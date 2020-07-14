@@ -1,2 +1,5 @@
 *.lock
 *.ide
+*.suo
+*.pdb
+*.g.cs
