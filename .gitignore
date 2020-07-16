@@ -1,5 +1,22 @@
+#Extension cache
+*.dtbcache
+*.cache
+
+#Extension suo
+*.suo
+
+#Extension .Lock
 *.lock
+
+#Extension ide
 *.ide
-.suo
+
+#Extension .pdb
 *.pdb
+
+#Exntension .g.c
 *.g.cs
+
+
+
+
