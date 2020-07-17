@@ -1,0 +1,28 @@
+#Extension cache
+
+*.dtbcache
+*.cache
+
+#Extension cache
+*.suo
+
+#Extension .Lock
+*.lock
+
+#Extension ide
+*.ide
+*.ide-shm
+*.ide-wal
+
+#Extension .pdb
+*.pdb
+
+#Exntension .g.c
+*.g.cs
+
+#Exntension .props
+*.props
+
+
+#Exntension .project
+*.assets.json
