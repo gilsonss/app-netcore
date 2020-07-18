@@ -26,3 +26,9 @@
 
 #Exntension .project
 *.assets.json
+
+#Folders
+
+*/obj/*
+*/.vs/*
+
