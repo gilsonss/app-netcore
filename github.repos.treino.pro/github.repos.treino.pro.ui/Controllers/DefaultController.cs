@@ -13,7 +13,13 @@ namespace github.repos.treino.pro.ui.Controllers
         public ActionResult Index()
         {
             return View();
-        }       
+        }
+
+        // GET: Default/Details/5
+        public ActionResult Details(int id)
+        {
+            return View();
+        }
 
         // GET: Default/Create
         public ActionResult Create()
@@ -82,11 +88,6 @@ namespace github.repos.treino.pro.ui.Controllers
             {
                 return View();
             }
-        }
-
-        private void MethodTest()
-        {
-            //Create For Validation
         }
     }
 }
