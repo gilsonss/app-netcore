@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OracleBpm.Features.Data\OracleBpm.Features.Data.csproj" />
+    <ProjectReference Include="..\OracleBpm.Features.Domain\OracleBpm.Features.Domain.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

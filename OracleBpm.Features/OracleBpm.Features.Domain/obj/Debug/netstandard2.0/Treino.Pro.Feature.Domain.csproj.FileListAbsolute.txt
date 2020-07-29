@@ -1,0 +1,8 @@
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\bin\Debug\netstandard2.0\Treino.Pro.Feature.Domain.deps.json
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\bin\Debug\netstandard2.0\Treino.Pro.Feature.Domain.dll
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\bin\Debug\netstandard2.0\Treino.Pro.Feature.Domain.pdb
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\obj\Debug\netstandard2.0\Treino.Pro.Feature.Domain.csprojAssemblyReference.cache
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\obj\Debug\netstandard2.0\Treino.Pro.Feature.Domain.AssemblyInfoInputs.cache
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\obj\Debug\netstandard2.0\Treino.Pro.Feature.Domain.AssemblyInfo.cs
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\obj\Debug\netstandard2.0\Treino.Pro.Feature.Domain.dll
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\obj\Debug\netstandard2.0\Treino.Pro.Feature.Domain.pdb

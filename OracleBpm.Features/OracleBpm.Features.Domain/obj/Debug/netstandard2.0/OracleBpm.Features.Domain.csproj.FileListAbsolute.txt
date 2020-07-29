@@ -1,0 +1,17 @@
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\bin\Debug\netstandard2.0\OracleBpm.Features.Domain.deps.json
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\bin\Debug\netstandard2.0\OracleBpm.Features.Domain.dll
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\bin\Debug\netstandard2.0\OracleBpm.Features.Domain.pdb
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\obj\Debug\netstandard2.0\OracleBpm.Features.Domain.csprojAssemblyReference.cache
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\obj\Debug\netstandard2.0\OracleBpm.Features.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\obj\Debug\netstandard2.0\OracleBpm.Features.Domain.AssemblyInfoInputs.cache
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\obj\Debug\netstandard2.0\OracleBpm.Features.Domain.AssemblyInfo.cs
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\obj\Debug\netstandard2.0\OracleBpm.Features.Domain.dll
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.Domain\obj\Debug\netstandard2.0\OracleBpm.Features.Domain.pdb
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\OracleBpm.Features.Domain\bin\Debug\netstandard2.0\OracleBpm.Features.Domain.deps.json
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\OracleBpm.Features.Domain\bin\Debug\netstandard2.0\OracleBpm.Features.Domain.dll
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\OracleBpm.Features.Domain\bin\Debug\netstandard2.0\OracleBpm.Features.Domain.pdb
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\OracleBpm.Features.Domain\obj\Debug\netstandard2.0\OracleBpm.Features.Domain.csprojAssemblyReference.cache
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\OracleBpm.Features.Domain\obj\Debug\netstandard2.0\OracleBpm.Features.Domain.AssemblyInfoInputs.cache
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\OracleBpm.Features.Domain\obj\Debug\netstandard2.0\OracleBpm.Features.Domain.AssemblyInfo.cs
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\OracleBpm.Features.Domain\obj\Debug\netstandard2.0\OracleBpm.Features.Domain.dll
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\OracleBpm.Features.Domain\obj\Debug\netstandard2.0\OracleBpm.Features.Domain.pdb

@@ -1,0 +1,11 @@
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.IoC\bin\Debug\netstandard2.0\Treino.Pro.Feature.IoC.deps.json
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.IoC\bin\Debug\netstandard2.0\Treino.Pro.Feature.IoC.dll
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.IoC\bin\Debug\netstandard2.0\Treino.Pro.Feature.IoC.pdb
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.IoC\bin\Debug\netstandard2.0\Treino.Pro.Feature.Domain.dll
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.IoC\bin\Debug\netstandard2.0\Treino.Pro.Feature.Domain.pdb
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.IoC\obj\Debug\netstandard2.0\Treino.Pro.Feature.IoC.csprojAssemblyReference.cache
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.IoC\obj\Debug\netstandard2.0\Treino.Pro.Feature.IoC.AssemblyInfoInputs.cache
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.IoC\obj\Debug\netstandard2.0\Treino.Pro.Feature.IoC.AssemblyInfo.cs
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.IoC\obj\Debug\netstandard2.0\Treino.Pro.Feature.IoC.csproj.CopyComplete
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.IoC\obj\Debug\netstandard2.0\Treino.Pro.Feature.IoC.dll
+C:\Users\Gilson\source\repos\Treino.Pro.Feature\Treino.Pro.Feature.IoC\obj\Debug\netstandard2.0\Treino.Pro.Feature.IoC.pdb
