@@ -10,6 +10,6 @@ namespace OracleBpm.Features.Domain.Contract
 
         void RemoveFeature(T entityFeatuare);
 
-        IList<T> ListFeature(T entityFeatuare);
+        IList<T> ListFeature();
     }
 }

@@ -25,7 +25,7 @@ namespace OracleBpm.Features.Data.Repositorys
             _featureDataBase.ClosedConnection(connection);
         }
 
-        public IList<EntityRole> ListFeature(EntityRole entityFeatuare)
+        public IList<EntityRole> ListFeature()
         {
             var connection = _featureDataBase.CreateConnection();
             List<EntityRole> ListentityRoles = new List<EntityRole>();

@@ -1,11 +1,15 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
+using System.Web;
 using System.Diagnostics;
 
 using OracleBpm.Features.Contract;
 using OracleBpm.Features.Domain.Entities;
 using OracleBpm.Features.UI.Models;
+using X.PagedList.Mvc.Core;
+using X.PagedList;
+
 
 namespace Treino.Pro.Feature.UI.Controllers
 {
@@ -21,11 +25,11 @@ namespace Treino.Pro.Feature.UI.Controllers
             _featureRole = featureRole;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(int pagina=1)
         {
-            EntityRole entityRole = new EntityRole { CodigoRole = 1, DescricaoRole = "Desc Teste", DataCadastroRole = DateTime.Now };
-           _featureRole.UpdateFeature(entityRole);
-            return View();
+
+            var listFeatures = _featureRole.ListFeature().ToPagedList(pagina, 5);
+            return View(listFeatures);
         }
 
         public IActionResult Privacy()
