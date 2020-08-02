@@ -50,7 +50,7 @@ namespace OracleBpm.Features.UI
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Role}/{action=Index}/{id?}");
             });
         }
     }

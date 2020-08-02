@@ -1,10 +1,33 @@
 ﻿<header>
-    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-      
-        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">            
-            <img src="~/images/liberty60x60.png" />
-        </a>     
 
-            <h1 class="text-center">  Recursos Workflolw </h1>       
+   <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom box-shadow mb-3">
+                 
+       
+                <a class="navbar-brand" asp-area="" asp-controller="Role" asp-action="Index">
+                    <img src="~/images/" class="h-75"/>
+                </a>
+
+                <div class="dropdown" align="right">
+                    <button class="btn page-link dropdown-toggle site-dropdown-menu" type="button" id="menuWorkflow" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Recursos
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="menuWorkflow">
+                        <a class="dropdown-item text-primary" asp-controller="Role" asp-action="Index">Role</a>
+                        <a class="dropdown-item text-primary" asp-controller="SolicitacaoWorkflow" asp-action="Index">Solictação Workflow</a>
+                        <a class="dropdown-item text-primary">Outros</a>
+                    </div>
+                </div>          
     </nav>
+
+
+
+
+
+
+
+
+
+ 
+   
+
 </header>
