@@ -6,16 +6,21 @@ using System.Data;
 using System.Text;
 
 
-namespace OracleBpm.Features.Data.EntityConifg
+namespace OracleBpm.Features.Data.EntitiesConifg
 {
     //https://thiagoborges.net.br/oracle-no-net-core/
     public class FeatureDataBase : IDatabaseHandler
     {
-        private string _connectionString { get; set; }
+        private string _connectionString { get;}
 
         public FeatureDataBase(string connectionstring)
         {
             _connectionString = connectionstring;
+        }
+
+        public FeatureDataBase()
+        {
+
         }
 
         public IDbConnection CreateConnection()

@@ -1,20 +1,27 @@
 ﻿using System;
 using Oracle.ManagedDataAccess.Client;
 using OracleBpm.Features.Contract;
-using OracleBpm.Features.Data.EntityConifg;
+using OracleBpm.Features.Data.EntitiesConifg;
 using System.Collections.Generic;
 using System.Data;
 
 using OracleBpm.Features.Domain.Entities;
+using Microsoft.Extensions.Configuration;
+using System.Configuration;
+using OracleBpm.Features.Data.Repositories.Contracts;
 
-namespace OracleBpm.Features.Data.Repositorys
+namespace OracleBpm.Features.Data.Repositories.Repository
 {
     public class FeatureRoleRepository : IFeatureBaseRepository<EntityRole>, IFeatureRole
     {
+       private readonly FeatureDataBase _featureDataBase;
+       private IConfiguration _config;
 
-       private static readonly string connectinString = "Data Source = (DESCRIPTION = (ADDRESS_LIST = (ADDRESS = (PROTOCOL = TCP)(HOST = NB-GILSON)(PORT = 1521)))(CONNECT_DATA = (SID = xe))); Persist Security Info=True;User ID = system; Password=1234;Pooling=True;Connection Timeout = 60;";
-      
-       FeatureDataBase _featureDataBase = new FeatureDataBase(connectinString);
+        public FeatureRoleRepository(IConfiguration config)
+        {
+            _config = config;     
+            _featureDataBase = new FeatureDataBase(_config.GetSection("ConnectionStrings:Value").Value);
+        }          
 
         public void AddFeature(EntityRole entityFeatuare)
         {

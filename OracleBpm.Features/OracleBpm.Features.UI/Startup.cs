@@ -5,7 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
 using OracleBpm.Features.Contract;
-using OracleBpm.Features.Data.Repositorys;
+using OracleBpm.Features.Data.Repositories.Repository;
 
 namespace OracleBpm.Features.UI
 {
@@ -24,6 +24,7 @@ namespace OracleBpm.Features.UI
             services.AddControllersWithViews();
 
             services.AddSingleton<IFeatureRole, FeatureRoleRepository>();
+          
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
